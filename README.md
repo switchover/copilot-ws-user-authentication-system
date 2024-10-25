@@ -1,2 +1,1 @@
-# copilot-ws-user-authentication-system
-A repository for user authentication and management system
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
