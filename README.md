@@ -86,6 +86,17 @@ This project is a user management system that includes user registration, login,
    - Open your web browser and navigate to `http://localhost:8080` for the backend API.
    - Open your web browser and navigate to `http://localhost:8081` for the frontend application.
 
+## Accessing the Frontend Pages
+
+1. **User Registration Page:**
+   - Navigate to `http://localhost:8081/register` to access the user registration page.
+
+2. **User Login Page:**
+   - Navigate to `http://localhost:8081/login` to access the user login page.
+
+3. **User Information Management Page:**
+   - Navigate to `http://localhost:8081/user-info` to access the user information management page.
+
 ## License
 
 This project is licensed under the MIT License.
